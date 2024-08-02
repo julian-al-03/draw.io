@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2024-08-02T14:52:06.274Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:128.0) Gecko/20100101 Firefox/128.0" etag="9Z8_ZGml5A297DHG9h-i" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-08-02T15:31:50.146Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:128.0) Gecko/20100101 Firefox/128.0" etag="324NDQqVCANv6fVPAqqg" version="24.6.4" type="github">
   <diagram name="Page-1" id="f_4HVMRvgIWEagkYFqPJ">
-    <mxGraphModel dx="530" dy="342" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="763" dy="492" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Ehk34Qw2-alpEIkBXiiQ-27" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="Ehk34Qw2-alpEIkBXiiQ-27" value="" style="group;aspect=fixed;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="170" y="110" width="266" height="110" as="geometry" />
         </mxCell>
         <mxCell id="Ehk34Qw2-alpEIkBXiiQ-5" value="&lt;div&gt;$$m$$&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Ehk34Qw2-alpEIkBXiiQ-27">
