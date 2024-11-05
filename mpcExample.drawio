@@ -1,9 +1,93 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:131.0) Gecko/20100101 Firefox/131.0" version="24.8.3">
   <diagram name="Page-1" id="tBm1ySDaMVizGitbEx-P">
-    <mxGraphModel>
+    <mxGraphModel dx="424" dy="273" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="OH-LeGoS1NbmJPtULH7S-1" value="$$P_1$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="380" y="250" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="OH-LeGoS1NbmJPtULH7S-2" value="$$P_2$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="407" y="250" width="14" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="OH-LeGoS1NbmJPtULH7S-3" value="$$P_3$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="440" y="250" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="OH-LeGoS1NbmJPtULH7S-4" value="$$P_1$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="350" y="280" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="OH-LeGoS1NbmJPtULH7S-5" value="$$P_2$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="346" y="300" width="14" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="OH-LeGoS1NbmJPtULH7S-6" value="$$P_3$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="350" y="320" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="OH-LeGoS1NbmJPtULH7S-7" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=0.5;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="350" y="270" as="sourcePoint" />
+            <mxPoint x="520" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OH-LeGoS1NbmJPtULH7S-8" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=0.5;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="370" y="350" as="sourcePoint" />
+            <mxPoint x="370" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OH-LeGoS1NbmJPtULH7S-9" value="&lt;div style=&quot;font-size: 9px;&quot;&gt;$$r_{1,1}$$&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="380" y="280" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="OH-LeGoS1NbmJPtULH7S-10" value="&lt;div style=&quot;font-size: 9px;&quot;&gt;$$r_{1,2}$$&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="409" y="280" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="OH-LeGoS1NbmJPtULH7S-11" value="&lt;div style=&quot;font-size: 9px;&quot;&gt;$$r_{1,3}$$&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="440" y="280" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="OH-LeGoS1NbmJPtULH7S-12" value="&lt;div style=&quot;font-size: 9px;&quot;&gt;$$r_{2,1}$$&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="380" y="300" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="OH-LeGoS1NbmJPtULH7S-13" value="&lt;div style=&quot;font-size: 9px;&quot;&gt;$$r_{2,2}$$&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="411" y="300" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="OH-LeGoS1NbmJPtULH7S-14" value="&lt;div style=&quot;font-size: 9px;&quot;&gt;$$r_{2,3}$$&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="440" y="300" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="OH-LeGoS1NbmJPtULH7S-15" value="&lt;div style=&quot;font-size: 9px;&quot;&gt;$$r_{3,1}$$&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="380" y="320" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="OH-LeGoS1NbmJPtULH7S-16" value="&lt;div style=&quot;font-size: 9px;&quot;&gt;$$r_{3,2}$$&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="409" y="320" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="OH-LeGoS1NbmJPtULH7S-17" value="&lt;div style=&quot;font-size: 9px;&quot;&gt;$$r_{3,3}$$&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="440" y="320" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="OH-LeGoS1NbmJPtULH7S-19" value="$$\Sigma$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="490" y="250" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="OH-LeGoS1NbmJPtULH7S-20" value="&lt;div style=&quot;font-size: 9px;&quot;&gt;$$x_1$$&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="490" y="280" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="OH-LeGoS1NbmJPtULH7S-21" value="&lt;div style=&quot;font-size: 9px;&quot;&gt;$$x_2$$&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="490" y="300" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="OH-LeGoS1NbmJPtULH7S-22" value="&lt;div style=&quot;font-size: 9px;&quot;&gt;$$x_3$$&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="490" y="320" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="OH-LeGoS1NbmJPtULH7S-23" value="$$\Sigma$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="350" y="340" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="OH-LeGoS1NbmJPtULH7S-24" value="&lt;div style=&quot;font-size: 9px;&quot;&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;$$f(x_1,x_2,x_3)$$&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="490" y="340" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="OH-LeGoS1NbmJPtULH7S-25" value="&lt;div style=&quot;font-size: 9px;&quot;&gt;$$\Sigma r_{i,1}$$&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="380" y="340" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="OH-LeGoS1NbmJPtULH7S-26" value="&lt;div style=&quot;font-size: 9px;&quot;&gt;$$\Sigma r_{i,2}$$&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="411" y="340" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="OH-LeGoS1NbmJPtULH7S-27" value="&lt;div style=&quot;font-size: 9px;&quot;&gt;$$\Sigma r_{i,3}$$&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="440" y="340" width="10" height="10" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
