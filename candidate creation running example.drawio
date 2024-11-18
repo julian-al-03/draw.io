@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:132.0) Gecko/20100101 Firefox/132.0" version="24.8.4">
   <diagram name="Page-1" id="Z2tWkf93xfsDFHU3vvQh">
-    <mxGraphModel dx="465" dy="300" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="530" dy="342" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -19,23 +19,23 @@
         <mxCell id="KoMT7FtQCjmyfEZXfQRV-11" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="KoMT7FtQCjmyfEZXfQRV-4" target="KoMT7FtQCjmyfEZXfQRV-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KoMT7FtQCjmyfEZXfQRV-4" value="$$\varphi_{curr}=\langle (P_1,1)\rangle$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="KoMT7FtQCjmyfEZXfQRV-4" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;$$\varphi_{curr}=\langle (P_1,1)\rangle$$&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="330" y="350" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="KoMT7FtQCjmyfEZXfQRV-5" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" parent="1" vertex="1">
-          <mxGeometry x="200" y="400" width="120" height="60" as="geometry" />
+          <mxGeometry x="200" y="400" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="KoMT7FtQCjmyfEZXfQRV-8" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" parent="1" vertex="1">
-          <mxGeometry x="360" y="400" width="120" height="60" as="geometry" />
+          <mxGeometry x="360" y="400" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="KoMT7FtQCjmyfEZXfQRV-13" value="$$\delta_1(\varphi_{curr})=\langle RR\rangle$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="250" y="410" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="KoMT7FtQCjmyfEZXfQRV-16" value="$$\delta_2(\varphi_{curr})=\langle \rangle$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="400" y="410" width="20" height="20" as="geometry" />
+          <mxGeometry x="403" y="410" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="P94UJWV-IZb264JUJFEL-2" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="450" y="390" width="20" height="20" as="geometry" />
+          <mxGeometry x="430" y="390" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="P94UJWV-IZb264JUJFEL-1" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=0;" vertex="1" parent="P94UJWV-IZb264JUJFEL-2">
           <mxGeometry width="20" height="20" as="geometry" />
@@ -60,6 +60,21 @@
         </mxCell>
         <mxCell id="P94UJWV-IZb264JUJFEL-8" value="$$T_m^\alpha$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="P94UJWV-IZb264JUJFEL-6">
           <mxGeometry width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="P94UJWV-IZb264JUJFEL-9" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;$$\langle\rangle,4$$&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="300" y="285" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="P94UJWV-IZb264JUJFEL-10" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;$$(P_1,1),4$$&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="360" y="285" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="P94UJWV-IZb264JUJFEL-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="P94UJWV-IZb264JUJFEL-12" target="P94UJWV-IZb264JUJFEL-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P94UJWV-IZb264JUJFEL-12" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="290" y="280" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="P94UJWV-IZb264JUJFEL-13" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="340" y="280" width="50" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
