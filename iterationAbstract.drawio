@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:132.0) Gecko/20100101 Firefox/132.0" version="24.9.2">
   <diagram name="Page-1" id="ODh5Y47Mnq-QYr3oSCs-">
-    <mxGraphModel dx="1272" dy="820" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="1060" dy="683" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -49,10 +49,10 @@
         <mxCell id="tFuVRwsFXbAfNqK3pPbX-4" value="$$\textbf{Extension}$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="tFuVRwsFXbAfNqK3pPbX-13">
           <mxGeometry width="75" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="tFuVRwsFXbAfNqK3pPbX-18" value="$$\begin{align}&amp;amp;\text{Identifiy the next activity for each case.}\\&amp;amp;\text{Create a candidate for each activity}\end{align}$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="tFuVRwsFXbAfNqK3pPbX-18" value="$$\begin{align}&amp;amp;\text{Identifiy the next activity for each case.}\\&amp;amp;\text{Create a candidate for each activity.}\end{align}$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="130" y="310" width="240" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="tFuVRwsFXbAfNqK3pPbX-19" value="$$\begin{align}&amp;amp;\text{Find the candidate with smallest}\\&amp;amp;\text{timestamp for each case.}\end{align}$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="tFuVRwsFXbAfNqK3pPbX-19" value="$$\begin{align}&amp;amp;\text{For each case, find the candidate}\\&amp;amp;\text{with smallest timestamp.}\end{align}$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="430" y="310" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="tFuVRwsFXbAfNqK3pPbX-20" value="$$\begin{align}&amp;amp;\text{Compute weight and mask}\\&amp;amp;\text{for each candidate.}\end{align}$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
