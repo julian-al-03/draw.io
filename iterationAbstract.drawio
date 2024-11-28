@@ -1,14 +1,50 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:132.0) Gecko/20100101 Firefox/132.0" version="24.9.2">
   <diagram name="Page-1" id="ODh5Y47Mnq-QYr3oSCs-">
-    <mxGraphModel dx="2385" dy="1538" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="285" dy="184" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="n4hSemSXat8b8PdNol9R-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="260" y="240" width="120" height="60" as="geometry" />
+        <mxCell id="n4hSemSXat8b8PdNol9R-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="240" y="250" width="200" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="n4hSemSXat8b8PdNol9R-4" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="290" y="250" width="60" height="30" as="geometry" />
+        <mxCell id="n4hSemSXat8b8PdNol9R-4" value="$$\text{One Interation of the Protocol}$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="300" y="200" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tFuVRwsFXbAfNqK3pPbX-10" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="110" y="210" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="tFuVRwsFXbAfNqK3pPbX-7" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="tFuVRwsFXbAfNqK3pPbX-10">
+          <mxGeometry width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="tFuVRwsFXbAfNqK3pPbX-13" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="80" y="340" width="75" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="tFuVRwsFXbAfNqK3pPbX-9" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="tFuVRwsFXbAfNqK3pPbX-13">
+          <mxGeometry width="75" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="tFuVRwsFXbAfNqK3pPbX-4" value="$$\textbf{Extension}$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="tFuVRwsFXbAfNqK3pPbX-13">
+          <mxGeometry width="75" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="tFuVRwsFXbAfNqK3pPbX-15" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="240" y="390" width="200" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="tFuVRwsFXbAfNqK3pPbX-2" value="$$\textbf{Comparison}$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="250" y="380" width="95" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="tFuVRwsFXbAfNqK3pPbX-1" value="$$\textbf{Candidate Creation}$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="250" y="240" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="tFuVRwsFXbAfNqK3pPbX-16" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="240" y="520" width="200" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="tFuVRwsFXbAfNqK3pPbX-11" value="" style="group;fillColor=default;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="250" y="510" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="tFuVRwsFXbAfNqK3pPbX-8" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="tFuVRwsFXbAfNqK3pPbX-11">
+          <mxGeometry width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="tFuVRwsFXbAfNqK3pPbX-3" value="$$\textbf{Masking}$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="tFuVRwsFXbAfNqK3pPbX-11">
+          <mxGeometry width="70" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
