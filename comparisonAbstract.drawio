@@ -1,11 +1,14 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:132.0) Gecko/20100101 Firefox/132.0" version="24.9.2">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:132.0) Gecko/20100101 Firefox/132.0" version="24.9.3">
   <diagram name="Page-1" id="d5jtniwW-5Dl3Xjt4hLA">
-    <mxGraphModel dx="954" dy="615" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="367" dy="237" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="LXBxXWbIXISn6fNcLbN1-1" value="$$\theta$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="380" y="310" width="60" height="30" as="geometry" />
+        <mxCell id="LXBxXWbIXISn6fNcLbN1-1" value="$$\textcolor{purple}{\theta^E_1}=\rangle{}$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="360" y="250" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Kg9mgNcrb_hGxjLVr59c-1" value="$$\textcolor{orange}{\theta^E_2}$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="360" y="300" width="20" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
