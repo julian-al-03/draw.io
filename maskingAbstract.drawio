@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:132.0) Gecko/20100101 Firefox/132.0" version="25.0.0">
   <diagram name="Page-1" id="YKs4mZ0NodIwzrUA9rlN">
-    <mxGraphModel dx="1060" dy="683" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="1193" dy="769" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -11,7 +11,7 @@
           <mxGeometry x="50" y="400" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="UUXpzSVmjOKwNkdoXIW7-79" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="410" y="180" width="360" height="280" as="geometry" />
+          <mxGeometry x="410" y="180" width="360" height="360" as="geometry" />
         </mxCell>
         <mxCell id="UUXpzSVmjOKwNkdoXIW7-57" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;dashPattern=1 4;" vertex="1" parent="1">
           <mxGeometry x="420" y="270" width="130" height="40" as="geometry" />
@@ -20,7 +20,7 @@
           <mxGeometry x="250" y="270" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="UUXpzSVmjOKwNkdoXIW7-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="180" width="350" height="280" as="geometry" />
+          <mxGeometry x="40" y="180" width="350" height="360" as="geometry" />
         </mxCell>
         <mxCell id="UUXpzSVmjOKwNkdoXIW7-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;dashPattern=1 1;" vertex="1" parent="1">
           <mxGeometry x="250" y="210" width="130" height="40" as="geometry" />
@@ -180,7 +180,7 @@
             <mxPoint x="250" y="420" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UUXpzSVmjOKwNkdoXIW7-97" value="$$\kappa^\mu=\langle\textcolor{black}{0},\textcolor{purple}{c_1},\textcolor{orange}{c_2}\rangle$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="UUXpzSVmjOKwNkdoXIW7-97" value="$$\pi&#39;(\kappa^\mu)=\langle\textcolor{black}{0},\textcolor{purple}{c_1},\textcolor{orange}{c_2}\rangle$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="250" y="410" width="130" height="20" as="geometry" />
         </mxCell>
         <mxCell id="UUXpzSVmjOKwNkdoXIW7-99" value="$$\text{Encrypted}$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=default;" vertex="1" parent="1">
@@ -201,8 +201,18 @@
         <mxCell id="UUXpzSVmjOKwNkdoXIW7-105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endSize=4;" edge="1" parent="1" source="UUXpzSVmjOKwNkdoXIW7-103" target="UUXpzSVmjOKwNkdoXIW7-104">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="UUXpzSVmjOKwNkdoXIW7-103" value="$$\kappa^\mu=\langle\textcolor{black}{0},\textcolor{purple}{c_1},\textcolor{orange}{c_2}\rangle$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="UUXpzSVmjOKwNkdoXIW7-103" value="$$\pi&#39;(\kappa^\mu)=\langle\textcolor{black}{0},\textcolor{purple}{c_1},\textcolor{orange}{c_2}\rangle$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="420" y="410" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="UUXpzSVmjOKwNkdoXIW7-112" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startSize=4;endSize=4;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="UUXpzSVmjOKwNkdoXIW7-104" target="UUXpzSVmjOKwNkdoXIW7-110">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="780" y="421" />
+              <mxPoint x="780" y="460" />
+              <mxPoint x="30" y="460" />
+              <mxPoint x="30" y="500" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="UUXpzSVmjOKwNkdoXIW7-104" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;dashPattern=1 1;" vertex="1" parent="1">
           <mxGeometry x="630" y="391.5" width="130" height="58.5" as="geometry" />
@@ -213,11 +223,48 @@
         <mxCell id="UUXpzSVmjOKwNkdoXIW7-107" value="$$\text{Encrypted}$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="640" y="380" width="70" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="UUXpzSVmjOKwNkdoXIW7-108" value="$$\textcolor{purple}{\mu_{c_1}}=\langle0,1,0\rangle$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="UUXpzSVmjOKwNkdoXIW7-108" value="$$\pi&#39;(\textcolor{purple}{\mu_{c_1}})=\langle0,1,0\rangle$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="630" y="401.5" width="130" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="UUXpzSVmjOKwNkdoXIW7-109" value="$$\textcolor{orange}{\mu_{c_2}}=\langle0,0,1\rangle$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="UUXpzSVmjOKwNkdoXIW7-109" value="$$\pi&#39;(\textcolor{orange}{\mu_{c_2}})=\langle0,0,1\rangle$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="630" y="421.5" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="UUXpzSVmjOKwNkdoXIW7-110" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;dashPattern=1 1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="470" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UUXpzSVmjOKwNkdoXIW7-111" value="$$\text{Encrypted}$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="60" y="463" width="70" height="14" as="geometry" />
+        </mxCell>
+        <mxCell id="UUXpzSVmjOKwNkdoXIW7-113" value="$$\pi&#39;(\textcolor{purple}{\mu_{c_1}})=\langle0,1,0\rangle$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="50" y="480" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="UUXpzSVmjOKwNkdoXIW7-114" value="$$\pi&#39;(\textcolor{orange}{\mu_{c_2}})=\langle0,0,1\rangle$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="50" y="500" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="UUXpzSVmjOKwNkdoXIW7-115" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;dashPattern=1 1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="470" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UUXpzSVmjOKwNkdoXIW7-116" value="$$\text{de-permute}$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="180" y="480" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="UUXpzSVmjOKwNkdoXIW7-117" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endSize=4;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="UUXpzSVmjOKwNkdoXIW7-116">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="190" y="500" as="sourcePoint" />
+            <mxPoint x="260" y="500" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="220" y="500" />
+              <mxPoint x="220" y="500" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UUXpzSVmjOKwNkdoXIW7-118" value="$$\textcolor{orange}{\mu_{c_2}}=\langle0,0,1\rangle$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="260" y="500" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="UUXpzSVmjOKwNkdoXIW7-119" value="$$\textcolor{purple}{\mu_{c_1}}=\langle1,0,0\rangle$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="260" y="480" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="UUXpzSVmjOKwNkdoXIW7-120" value="$$\text{Encrypted}$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="270" y="463" width="70" height="14" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
