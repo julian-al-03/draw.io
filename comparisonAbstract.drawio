@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:132.0) Gecko/20100101 Firefox/132.0" version="24.9.3">
   <diagram name="Page-1" id="d5jtniwW-5Dl3Xjt4hLA">
-    <mxGraphModel dx="1122" dy="724" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="707" dy="456" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -33,16 +33,16 @@
         <mxCell id="Kg9mgNcrb_hGxjLVr59c-44" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="410" width="510" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="LXBxXWbIXISn6fNcLbN1-1" value="$$\textcolor{purple}{\theta^E_1}=\langle\textcolor{purple}{(c_1,1)},\textcolor{purple}{(c_2,5)},\textcolor{purple}{(c_3,2)}\rangle$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="LXBxXWbIXISn6fNcLbN1-1" value="$$\textcolor{purple}{\theta^E_1}=\langle\textcolor{purple}{(c_1,1)},\textcolor{purple}{(c_1,5)},\textcolor{purple}{(c_2,2)}\rangle$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="80" y="220" width="170" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Kg9mgNcrb_hGxjLVr59c-1" value="$$\textcolor{orange}{\theta^E_2}=\langle\textcolor{orange}{(c_4,3)},\textcolor{orange}{(c_5,2)},\textcolor{orange}{(c_6,4)}\rangle$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="Kg9mgNcrb_hGxjLVr59c-1" value="$$\textcolor{orange}{\theta^E_2}=\langle\textcolor{orange}{(c_3,3)},\textcolor{orange}{(c_3,2)},\textcolor{orange}{(c_3,4)}\rangle$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="80" y="250" width="170" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Kg9mgNcrb_hGxjLVr59c-2" value="$$\textcolor{black}{\theta^G_1}=\langle\textcolor{purple}{(c_1,1)},\textcolor{purple}{(c_2,5)},\textcolor{orange}{(c_6,4)}\rangle$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="Kg9mgNcrb_hGxjLVr59c-2" value="$$\textcolor{black}{\theta^G_1}=\langle\textcolor{purple}{(c_1,1)},\textcolor{purple}{(c_1,5)},\textcolor{orange}{(c_3,4)}\rangle$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="360" y="220" width="170" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Kg9mgNcrb_hGxjLVr59c-3" value="$$\textcolor{black}{\theta^G_2}=\langle\textcolor{orange}{(c_4,3)},\textcolor{orange}{(c_5,2)},\textcolor{purple}{(c_3,2)}\rangle$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="Kg9mgNcrb_hGxjLVr59c-3" value="$$\textcolor{black}{\theta^G_2}=\langle\textcolor{orange}{(c_3,3)},\textcolor{orange}{(c_3,2)},\textcolor{purple}{(c_2,2)}\rangle$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="360" y="250" width="170" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Kg9mgNcrb_hGxjLVr59c-4" value="$$\pi_1(\theta_1^G)-\pi_1(\theta_2^G)=\langle-2,3,2\rangle$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -161,7 +161,7 @@
         <mxCell id="Kg9mgNcrb_hGxjLVr59c-49" value="$$\text{result}$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="165" y="500" width="80" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Kg9mgNcrb_hGxjLVr59c-50" value="$$\mathit compare(\{\theta^G_1,\theta^G_2\})=\langle\textcolor{purple}{(c_1,1)},\textcolor{orange}{(c_5,2)},\textcolor{purple}{(c_3,2)}\rangle$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="Kg9mgNcrb_hGxjLVr59c-50" value="$$\mathit compare(\{\theta^G_1,\theta^G_2\})=\langle\textcolor{purple}{(c_1,1)},\textcolor{orange}{(c_3,2)},\textcolor{purple}{(c_2,2)}\rangle$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="245" y="510" width="295" height="20" as="geometry" />
         </mxCell>
       </root>
