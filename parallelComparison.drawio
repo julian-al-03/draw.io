@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:133.0) Gecko/20100101 Firefox/133.0" version="25.0.3">
   <diagram name="Page-1" id="zevqAE24Ego0CAfQR9Kr">
-    <mxGraphModel dx="2417" dy="1025" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="1508" dy="439" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -174,7 +174,7 @@
           <mxGeometry x="337" y="760" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-ToVtLrz6GbzSKe5hvrd-127" value="$$\log_2(n)$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="757" y="565" width="70" height="30" as="geometry" />
+          <mxGeometry x="757" y="645" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-ToVtLrz6GbzSKe5hvrd-129" value="$$\text{Parallel Comparison}$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="-3" y="560" width="136" height="20" as="geometry" />
