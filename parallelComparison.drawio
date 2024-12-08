@@ -43,18 +43,18 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="-ToVtLrz6GbzSKe5hvrd-82" value="$$\theta^E_1$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="-ToVtLrz6GbzSKe5hvrd-82" value="$$\theta^E_{n-3}$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="368" y="720" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="-ToVtLrz6GbzSKe5hvrd-109" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="-ToVtLrz6GbzSKe5hvrd-84" target="-ToVtLrz6GbzSKe5hvrd-86">
+        <mxCell id="-ToVtLrz6GbzSKe5hvrd-109" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.929;exitY=0.019;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="-ToVtLrz6GbzSKe5hvrd-84" target="-ToVtLrz6GbzSKe5hvrd-86">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="547" y="700" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="-ToVtLrz6GbzSKe5hvrd-84" value="$$\theta^E_2$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="537" y="720" width="20" height="20" as="geometry" />
+        <mxCell id="-ToVtLrz6GbzSKe5hvrd-84" value="$$\theta^E_{n-2}$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="528" y="720" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="-ToVtLrz6GbzSKe5hvrd-115" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-ToVtLrz6GbzSKe5hvrd-86">
           <mxGeometry relative="1" as="geometry">
@@ -123,15 +123,15 @@
         <mxCell id="-ToVtLrz6GbzSKe5hvrd-97" value="$$\mathit{compare}(\circ,\circ)$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="292.98" y="580" width="110" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="-ToVtLrz6GbzSKe5hvrd-102" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="-ToVtLrz6GbzSKe5hvrd-103" target="-ToVtLrz6GbzSKe5hvrd-107">
+        <mxCell id="-ToVtLrz6GbzSKe5hvrd-102" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;exitX=0.299;exitY=-0.001;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="-ToVtLrz6GbzSKe5hvrd-103" target="-ToVtLrz6GbzSKe5hvrd-107">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="576" y="700" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="-ToVtLrz6GbzSKe5hvrd-103" value="$$\theta^E_1$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="566" y="720" width="20" height="20" as="geometry" />
+        <mxCell id="-ToVtLrz6GbzSKe5hvrd-103" value="$$\theta^E_{n-1}$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="570" y="720" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="-ToVtLrz6GbzSKe5hvrd-104" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="-ToVtLrz6GbzSKe5hvrd-105">
           <mxGeometry relative="1" as="geometry">
@@ -141,7 +141,7 @@
             <mxPoint x="707" y="700" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-ToVtLrz6GbzSKe5hvrd-105" value="$$\theta^E_2$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="-ToVtLrz6GbzSKe5hvrd-105" value="$$\theta^E_n$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="717" y="720" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="-ToVtLrz6GbzSKe5hvrd-107" value="$$\mathit{compare}(\theta^E_{n-1},\theta^E_n)$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
