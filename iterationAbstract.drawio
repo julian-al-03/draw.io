@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:133.0) Gecko/20100101 Firefox/133.0" version="25.0.3">
   <diagram name="Page-1" id="ODh5Y47Mnq-QYr3oSCs-">
-    <mxGraphModel dx="954" dy="615" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="1434" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -52,7 +52,7 @@
         <mxCell id="tFuVRwsFXbAfNqK3pPbX-4" value="$$\textbf{Extension}$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="tFuVRwsFXbAfNqK3pPbX-13" vertex="1">
           <mxGeometry width="75" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="tFuVRwsFXbAfNqK3pPbX-18" value="$$\begin{align}&amp;amp;\text{Identifiy the next activity for each case.}\\&amp;amp;\text{Create a candidate for each activity.}\end{align}$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="tFuVRwsFXbAfNqK3pPbX-18" value="$$\begin{align}&amp;amp;\text{Identifiy the next activity for each case.}\\&amp;amp;\text{Create a candidate id for each activity.}\end{align}$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="130" y="310" width="240" height="30" as="geometry" />
         </mxCell>
         <mxCell id="tFuVRwsFXbAfNqK3pPbX-19" value="$$\begin{align}&amp;amp;\text{For each case, find the candidate}\\&amp;amp;\text{with the smallest timestamp.}\end{align}$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
